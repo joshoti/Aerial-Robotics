@@ -1,4 +1,4 @@
-# Aerial-Robotics
+# Aerial Robotics
 ## Week 1: PD (Proportional-Derivative) Tuning of Quadrotor
 <strong>Task:</strong> Tune the Kp (Proportional) gain of the system while the Kv (Derivative) gain is kept constant, observing different rates of covergence with different parameters.
 
