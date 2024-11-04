@@ -1,3 +1,5 @@
 # Aerial-Robotics
-## Week 1: PD (Proportional-Derivative) Tuning
-Tune the PD controller of a Quadrotor
+## Week 1: PD (Proportional-Derivative) Tuning of Quadrotor
+<strong>Task:</strong> Tune the Kp (Proportional) gain of the system while the Kd (Derivative) gain is kept constant. Observing different rates of covergence with different techniques.
+
+<strong>Goal:</strong> Get a response which has a rise time less than 1 second and a maximum overshoot of less than 5%
